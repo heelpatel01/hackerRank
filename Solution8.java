@@ -28,9 +28,6 @@ public class IntegerDataType {
                 }
             } catch (Exception e) {
                 System.out.println(scan.next() + " can't be fitted anywhere.");
-            }
-        }
-
+            }}
         scan.close();
-    }
-}
+    }}
